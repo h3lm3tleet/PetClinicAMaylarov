@@ -1,6 +1,5 @@
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![CAT](https://kotikdoma.com/wp-content/uploads/2019/11/img_5ddebd7d0c34a.jpg)
 # README
 
 Добрый день! С вами Амир, а это краткая инструкция по ***правильной*** настройке и запуску, казалось бы, тестовой, но интересной работы! **ПРИСТУПИМ!**
@@ -35,4 +34,4 @@
 а) Клиент-сервеную архитектуру
 б) .NET Framework не позднее версии 4.0
 Приложение может быть как web так и desktop
-
+![CAT](https://kotikdoma.com/wp-content/uploads/2019/11/img_5ddebd7d0c34a.jpg)
